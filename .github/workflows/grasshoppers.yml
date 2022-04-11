@@ -32,4 +32,5 @@ jobs:
           git config --global user.email 'wjdgh0727@gmail.com'
           git add .
           git commit -m "Hop, hop, hop."
+          git pull
           git push
